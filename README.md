@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/bandianconde/social-links-profile-example.git)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://social-links-profile-example-nu.vercel.app/)
 
 ## My process
 
